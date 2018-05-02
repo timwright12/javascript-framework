@@ -1,5 +1,1 @@
-;(function(){
-  
-  alert('OMG, stop.');
-  
-})();
+;(function(){alert('OMG, stop.')})();
